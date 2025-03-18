@@ -8,7 +8,7 @@ import java.util.Scanner;
  * and storing the car objects in an array 
  * @author DarrenStones
  */
-public class UsingCarClassV1 {
+public class UsingCarClass {
 
     public static void main(String[] args) {
         
