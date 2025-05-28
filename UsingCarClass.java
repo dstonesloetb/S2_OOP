@@ -1,5 +1,3 @@
-package com.mycompany.oopexamples;
-
 import java.util.Scanner;
 
 /**
