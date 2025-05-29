@@ -19,7 +19,7 @@ class Employee {
     }
 }
 
-public class Main {
+public class UsingEmployee {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
