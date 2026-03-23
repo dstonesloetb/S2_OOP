@@ -2,7 +2,7 @@
 
 ## Sample Classes and Creating Objects from Classes
 1. [Widget](Widget.java)  |  [Using Widget](UsingWidget.java) 
-2. [Game Character](GameCharacter.java) | [Main Game Character](MainGameCharacter.java) | [UsingGameCharacter](UsingGameCharacter.java) 
+2. [Game Character](GameCharacter.java) | [Main Game Character](MainGameCharacter .java) | [UsingGameCharacter](UsingGameCharacter.java) 
 3. [Car](Car.java) | [Using Car Class](UsingCarClass.java) 
 4. [Rectangle](Rectangle.java) | [Using Rectangle](UsingRectangle.java)
 5. [Employee](UsingEmployee.java)
