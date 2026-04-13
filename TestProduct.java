@@ -15,7 +15,7 @@ public class TestProduct {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Create an array of 3 Employee objects
+        // Create an array of 3 Product objects
         Product[] products = new Product[3];
 
         // Input employee details from the user
@@ -29,11 +29,11 @@ public class TestProduct {
             String name = scanner.nextLine();
 
 
-            // Create an Employee object and store it in the array
+            // Create a product object and store it in the array
             products[i] = new Product(id, name);
         }
 
-        // Display the details of each employee using the displayDetails() method
+        // Display the details of each product using the displayDetails() method
         System.out.println("\nOur products include:");
     
         for (int i = 0; i < 3; i++) {
