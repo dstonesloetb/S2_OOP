@@ -31,6 +31,6 @@ class Product {
     
   // Method to display product details
   public void displayDetails() {
-    System.out.println("Id: " + productId + "\t\tName: " + name);
+    System.out.println("Product Id: " + productId + "\t\tName: " + name);
   }
 }
